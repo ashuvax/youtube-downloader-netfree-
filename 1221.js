@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         youtube downloader (netfree)
 // @namespace    https://mitmachim.top/user/אהרן-שובקס
-// @version      1.0
+// @version      1.5
 // @updateURL    https://github.com/ashuvax/youtube-downloader-netfree-/
 // @description  adding download button to youtube - MP3 audio (for netfree users)
 // @author       shuvax
